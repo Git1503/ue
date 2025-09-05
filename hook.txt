@@ -1,0 +1,1 @@
+invoke-static {p0}, Lalienkrishn/deviceactivation/key/a;->a(Landroid/app/Activity;)V
