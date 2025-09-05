@@ -1,5 +1,7 @@
 
     #Disable Screenshot Smalicode_paste code on Oncreate of activity 
+
+#For MainActivity _Paste on Oncreat method public static end like before return void  
     
     # ... after super.onCreate and before setContentView
 
