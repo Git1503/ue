@@ -1,5 +1,5 @@
 
-    #Disable Screenshot Smalicode_paste code on Oncreate of activity 
+    ##Disable Screenshot Smalicode_paste code on Oncreate of deviceactivation dialogue or loginactivity
 
 #For MainActivity _Paste on Oncreat method public static end like before return void  
     
